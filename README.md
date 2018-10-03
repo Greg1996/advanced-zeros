@@ -1,8 +1,7 @@
 # advanced-zeros
 Let's count zeros!
 
-## Task
-
+## TasK
 Your task is to implement `getZerosCount` function, which takes any integer number `number` (`1 <= number <= 10^7`) as first argument and any integer number `base` (`2 <= base <= 256`) as second argument. You should calculate *how many zeros in the end of number, which is factorial of `number` in `base` base system*
 
 For example:
